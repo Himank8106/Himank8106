@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Himank Joshi</h1>
-<h2 align="center">A passionate frontend developer</h2>
+<h2 align="center">A passionate Front-end Web Developer</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himank8106&label=Profile%20views&color=0e75b6&style=flat" alt="himank8106" /> </p>
 
 - 🌱 I’m currently learning **Java, DSA, React.js, etc.**
 
-- 💬 Ask me about **frond-end web development**
+- 💬 Ask me about **Frond-end web development**
 
 - 📫 How to reach me **himankjoshi8106@gmail.com**
 
