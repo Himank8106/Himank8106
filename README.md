@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, DSA, React.js, etc.**
 
-- 💬 Ask me about **Frond-end web development**
+- 💬 Ask me about **Frond-end Web Development**
 
 - 📫 How to reach me **himankjoshi8106@gmail.com**
 
