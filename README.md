@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himank Joshi</h1>
-<h2 align="center">A passionate Front-end Web Developer</h2>
+<h2 align="center">A passionate Web Developer</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=himank8106&label=Profile%20views&color=0e75b6&style=flat" alt="himank8106" /> </p>
 
