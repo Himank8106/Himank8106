@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Himank Joshi</h1>
-<h2 align="center">A passionate Web Developer</h2>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=himank8106&label=Profile%20views&color=0e75b6&style=flat" alt="himank8106" /> </p>
+<h4 align="center">I am a Pre-Final Year student pursuing B.Tech in CSE. Personally, I love to develop Websites, participate in Hackathons, and doing Competitive Coding.<h4>
+<hr/>
 
 - 🌱 I’m currently learning **DSA and MERN Stack Development**
 
-- 💬 Ask me about **Frond-end Web Development**
+- 💬 Ask me about **Computer Science**
 
-- 📫 How to reach me **himankjoshi8106@gmail.com**
+- 📫 How to reach me **himankjoshi8106@gmail.com** <br><br>
 
   
-<h3 align="center">Connect with me:</h3>
+<h2 align="center"><bold>🌐 Connect with me:</bold></h2>
 <p align="center">
   <a href="https://linkedin.com/in/himank8106" target="blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>
   <a href="https://www.codechef.com/users/himank8106" target="_blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/codechef.png" alt="codechef"/></a>
@@ -19,10 +19,11 @@
   <a href="https://www.instagram.com/himank8106/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center"><bold>Languages and Tools:</bold></h2>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,git,java,mysql" >
 </p>
+<br>
 
 <div align="center"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himank8106&show_icons=true&locale=en&layout=compact" alt="himank8106" /></p></div>
 
@@ -33,7 +34,19 @@
   </p>
 </div>
 
+<div align="center">
+  <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Himank8106&theme=github" alt="himank8106" />
+  </p>
+</div>
+
+<div align="center">
+  <p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Himank8106&theme=github-compact&height=350&hide_border=true" alt="himank8106" />
+  </p>
+</div>
+
+
 <!--
+[![Aswin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Himank8106&theme=github-compact&height=350&hide_border=true)](https://github.com/Himank8106/github-readme-activity-graph)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Himank8106&theme=github)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Himank8106&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Himank8106&theme=github)
