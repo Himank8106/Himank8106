@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=himank8106&label=Profile%20views&color=0e75b6&style=flat" alt="himank8106" /> </p>
 
-- 🌱 I’m currently learning **Java, DSA, React.js, etc.**
+- 🌱 I’m currently learning **DSA and MERN Stack Development**
 
 - 💬 Ask me about **Frond-end Web Development**
 
