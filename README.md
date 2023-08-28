@@ -12,7 +12,7 @@
   
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/himank8106" target="_blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>
+  <a href="https://linkedin.com/in/himank8106" target="blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>
   <a href="https://www.codechef.com/users/himank8106" target="_blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/codechef.png" alt="codechef"/></a>
   <a href="https://leetcode.com/Himank8106" target="_blank"><img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo"/></a>   
   <a href="https://www.hackerrank.com/himankjoshi8106" target="_blank"><img width="48" height="48" src="https://img.icons8.com/windows/48/hackerrank.png" alt="hackerrank"/></a>   
