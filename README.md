@@ -27,5 +27,15 @@
 
 <!--<div><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himank8106&show_icons=true&locale=en" alt="himank8106" /></p></div>-->
 
-<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himank8106&" alt="himank8106" /></p></div>
+<div align="center">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himank8106&" alt="himank8106" />
+  </p>
+</div>
+
+<!--
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Himank8106&theme=github)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Himank8106&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Himank8106&theme=github)
+-->
+
 
