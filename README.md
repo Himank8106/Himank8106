@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **himankjoshi8106@gmail.com** 
 
-- **Portfolio -** <a href="https://himank8106.github.io/Portfolio/" alt="site" target="_main">Himank.site</a> <br><br>
+- **Portfolio -** <a href="https://himank8106.github.io/Portfolio/" alt="site" target="_main">Himank.site</a> <br>
 
   
 <h2 align="center"><bold>🌐 Connect with me:</bold></h2>
