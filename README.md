@@ -46,7 +46,7 @@
   </p>
 </div>
 
-![@himank8106's Holopin badges](https://holopin.me/himank8106)
+[![@himank8106's Holopin badges](https://holopin.me/himank8106)](https://www.holopin.io/@himank8106)
 
 <!--
 [![Aswin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Himank8106&theme=github-compact&height=350&hide_border=true)](https://github.com/Himank8106/github-readme-activity-graph)
