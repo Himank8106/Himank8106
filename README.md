@@ -3,14 +3,16 @@
 <h4 align="center">I am a Pre-Final Year student pursuing B.Tech in CSE. Personally, I love to develop Websites, participate in Hackathons, and doing Competitive Coding.</h4>
 <hr/>
 
+
 - 🌱 I’m currently learning **DSA and MERN Stack Development**
 
 - 💬 Ask me about **Computer Science**
 
 - 📫 How to reach me **himankjoshi8106@gmail.com** 
 
-- **Portfolio -** <a href="https://himank8106.github.io/Portfolio/" alt="site" target="_main">Himank.site</a> <br>
+- **Portfolio -** <a href="https://himank8106.github.io/Portfolio/" alt="site" target="_main">**Himank.site**</a> <br>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Himank8106&label=Visitors&color=0e75b6&style=flat" alt="Vedeesh" /></p>
   
 <h2 align="center"><bold>🌐 Connect with me:</bold></h2>
 <p align="center">
