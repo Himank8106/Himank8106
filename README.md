@@ -43,10 +43,10 @@
   </p>
 </div>
 
-<div align="center">
+<!--  <div align="center">
   <p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Himank8106&theme=github-compact&height=350&hide_border=true" alt="himank8106" />
   </p>
-</div>
+</div> -->
 
 [![@himank8106's Holopin badges](https://holopin.me/himank8106)](https://www.holopin.io/@himank8106)
 
