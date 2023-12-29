@@ -12,7 +12,7 @@
 
 - **Portfolio -** <a href="https://himank8106.github.io/Portfolio/" alt="site" target="_main">**Himank.site**</a> <br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Himank8106&label=Visitors&color=0e75b6&style=flat" alt="Vedeesh" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Himank8106&label=Visitors&color=0e75b6&style=flat" alt="Visitor's Count" /></p>
   
 <h2 align="center"><bold>🌐 Connect with me:</bold></h2>
 <p align="center">
