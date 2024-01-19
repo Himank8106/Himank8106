@@ -31,7 +31,7 @@
 <br>
 
 <div align="center"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himank8106&show_icons=true&locale=en&layout=compact" alt="himank8106" /></p></div>
-
+<!-- -->
 <!--<div><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himank8106&show_icons=true&locale=en" alt="himank8106" /></p></div>-->
 
 <div align="center">
