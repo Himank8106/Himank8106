@@ -2,7 +2,7 @@
 
 <h4 align="center">I am a Pre-Final Year student pursuing B.Tech in CSE. Personally, I love to develop Websites, participate in Hackathons, and doing Competitive Coding.</h4>
 <hr/>
-
+<!-- -->
 
 - 🌱 I’m currently learning **DSA and MERN Stack Development**
 
