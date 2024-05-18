@@ -48,8 +48,6 @@
   </p>
 </div> -->
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
 [![@himank8106's Holopin badges](https://holopin.me/himank8106)](https://www.holopin.io/@himank8106)
 
 <!--
