@@ -53,7 +53,7 @@
 <!--
 [![Aswin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Himank8106&theme=github-compact&height=350&hide_border=true)](https://github.com/Himank8106/github-readme-activity-graph)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Himank8106&theme=github)<br/>
-![](http://github-profile-summary-rds.vercel.app/api/cards/repos-per-language?username=Himank8106&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Himank8106&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Himank8106&theme=github)
 -->
 
