@@ -25,7 +25,7 @@
 <h2 align="center"><bold>Languages and Tools:</bold></h2>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,html,css,bootstrap,tailwind,javascript,react,nodejs" > <br>
-<img src="https://skillicons.dev/icons?i=express,mongodb,postman,git,mysql" >
+<img src="https://skillicons.dev/icons?i=express,mongodb,postman,git,figma,mysql" >
 </p>
 <br>
 
